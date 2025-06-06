@@ -31,7 +31,7 @@ Add an ID starting with `#tip-` to reference a tip.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-```c
+```{.c}
 test$case(os_cmd_join_timeout)
 {
     os_cmd_c c = { 0 };
